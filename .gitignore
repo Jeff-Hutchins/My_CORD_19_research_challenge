@@ -1,0 +1,13 @@
+env.py
+.ipynb_checkpoints
+__pycache__
+.DS_Store
+Thumbs.db
+.vscode/
+__pycache__
+get_my_key.py
+__pycache__/
+biorxiv_medrxiv
+comm_use_subset
+custom_license
+noncomm_use_subset
